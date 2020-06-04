@@ -20,6 +20,7 @@
 ### 服务器运维相关
 
 - [使用 acme.sh 自动从 letsencrypt 生成证书安装到Nginx](https://github.com/liuvigongzuoshi/summarize-web-resources/blob/master/operation/acme.sh.md)
+- [记一次使用`frp`完成内网服务器实现穿透全过程](https://github.com/liuvigongzuoshi/summarize-web-resources/blob/master/operation/frp.md)
 
 ## 技术分享PPT
 
