@@ -13,6 +13,10 @@
 
 - [Web开发之浏览器安全问题](https://github.com/liuvigongzuoshi/blog/issues/3)
 
+### JavaScript 相关
+
+- [如何通过new Function创建 async 函数 - 译](https://github.com/liuvigongzuoshi/blog/issues/6)
+
 ### Vue 相关
 
 - [Vue 开发小技巧](https://github.com/liuvigongzuoshi/vue-iview-admin-template/blob/master/docs/advice/skills.md)
