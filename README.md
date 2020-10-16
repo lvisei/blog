@@ -4,6 +4,8 @@
 
 ### ES 相关
 
+- [如何通过new Function创建 async 函数 - 译](https://github.com/liuvigongzuoshi/blog/issues/6)
+
 ### Leaflet 相关
 
 - [入门 Leaflet 之小 Demo](https://github.com/liuvigongzuoshi/blog/issues/1)
@@ -12,10 +14,6 @@
 ### Browser 相关
 
 - [Web开发之浏览器安全问题](https://github.com/liuvigongzuoshi/blog/issues/3)
-
-### JavaScript 相关
-
-- [如何通过new Function创建 async 函数 - 译](https://github.com/liuvigongzuoshi/blog/issues/6)
 
 ### Vue 相关
 
