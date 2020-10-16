@@ -31,7 +31,7 @@
 ### Flutter 项目
 
 - [iOS 开发环境搭建两三事](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/mac/ios.md)
-- [Flutter 开发者使用 CocoaPods 注意点]()
+- [CocoaPods 使用疑惑点]()
 
 ### TensorFlow 相关
 
