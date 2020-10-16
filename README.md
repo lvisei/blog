@@ -28,9 +28,19 @@
 - [Web 项目编码规范化工具](https://github.com/liuvigongzuoshi/blog/issues/4)
 - [搭建 Vue 项目工程](https://github.com/liuvigongzuoshi/vue-iview-admin-template/blob/master/docs/advice/construct.md)
 
+### Flutter 项目
+
+- [iOS 开发环境搭建两三事](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/mac/ios.md)
+- [Flutter 开发者使用 CocoaPods 注意点]()
+
+### TensorFlow 相关
+
+- [Miniconda 搭建使用](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/python/miniconda.md)
+- [Windows 环境搭建 TensorFlow 2.1+ GPU 训练模型加速支持](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/tensorflow/tensorflow-gpu.md)
+
 ### 服务器运维相关
 
-- [使用 acme.sh 自动从 letsencrypt 生成证书安装到Nginx](https://github.com/liuvigongzuoshi/summarize-web-resources/blob/master/operation/acme.sh.md)
+- [使用 acme.sh 自动从 letsencrypt 生成证书安装到 Nginx](https://github.com/liuvigongzuoshi/summarize-web-resources/blob/master/operation/acme.sh.md)
 - [记一次使用`frp`完成内网服务器实现穿透全过程](https://github.com/liuvigongzuoshi/summarize-web-resources/blob/master/operation/frp.md)
 
 ## 技术分享 PPT
@@ -44,3 +54,4 @@
 
 - [掘金主页](https://juejin.im/user/5a51d81bf265da3e364115ee)
 - [segmentfault 主页](https://segmentfault.com/u/liuvigongzuoshi)
+- [知乎](https://www.zhihu.com/people/liu-vi-gong-zuo-shi)
