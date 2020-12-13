@@ -31,6 +31,10 @@
 - [iOS 开发环境搭建两三事](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/mac/ios.md)
 - [CocoaPods 使用疑惑点]()
 
+### Webassembly 相关
+
+- [JS 遇到 CPU 密集型代码，耗时长怎么破？ 来试试 Golang+WASM 曲线救国](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/webassembly/kriging.md)
+
 ### TensorFlow 相关
 
 - [Miniconda 搭建使用](https://github.com/liuvigongzuoshi/web-developer-resources/blob/master/python/miniconda.md)
