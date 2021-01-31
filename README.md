@@ -48,7 +48,7 @@
 ## 技术分享 PPT
 
 - [跨平台开发之初尝Flutter](https://ppt.baomitu.com/d/adbb85a7)
-- [前端项目开发工程化探索](https://github.com/liuvigongzuoshi/blog/files/5044930/default.pdf)
+- [前端项目开发工程化探索](https://github.com/liuvigongzuoshi/blog/issues/5)
 
 ## 关于
 
