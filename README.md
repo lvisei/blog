@@ -1,5 +1,7 @@
 # 我的博客目录
 
+_新手作家追求写得聪明，专业作家追求写得清晰，大师追求引起读者灵魂的共鸣。-- [David Perell](https://twitter.com/david_perell/status/1409610371527233539)_
+
 ## 博文
 
 ### ES 相关
